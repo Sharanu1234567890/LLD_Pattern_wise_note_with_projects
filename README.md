@@ -1,0 +1,1 @@
+# LLD_Pattern_wise_note_with_projects
